@@ -1,7 +1,6 @@
-# cmus-theme-bb
-My basic theme for CMUS
-
 # This repository contains the 'bb' theme for CMUS.
+
+![Image of the theme](Screenshot_2024-05-18_15-53-00.png)
 
 Clone the repository: git clone https://github.com/thiswombat/cmus-theme-bb
 
